@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: test-library
   description: test-library description
+  annotations:
+    github.com/project-slug: hmcts-test/test-template-13
 spec:
   type: service
   lifecycle: experimental
